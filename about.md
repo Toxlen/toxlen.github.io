@@ -5,4 +5,4 @@ title: About me
 
 # Thomas CHAMPSEIX
 
-Here is a description of how I am.
+Here is a description of who I am.
